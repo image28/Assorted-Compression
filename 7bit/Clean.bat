@@ -1,0 +1,1 @@
+d:\mingw\bin\make clean 

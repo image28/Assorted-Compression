@@ -1,0 +1,1 @@
+int compress(unsigned char infile[MAX], unsigned char outfile[MAX]);

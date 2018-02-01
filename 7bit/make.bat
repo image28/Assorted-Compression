@@ -1,0 +1,1 @@
+c:\mingw\bin\make 2> ERRORS.TXT
